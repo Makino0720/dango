@@ -2,6 +2,8 @@
 
 This is your story.
 
+テストメッセージです。
+
 ## Run in development mode
 
 ```
